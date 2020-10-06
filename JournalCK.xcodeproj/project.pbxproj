@@ -18,6 +18,7 @@
 		C34F511A252BCEC4003C89A2 /* EntryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34F5119252BCEC4003C89A2 /* EntryController.swift */; };
 		C34F511D252BD89E003C89A2 /* EntryError.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34F511C252BD89E003C89A2 /* EntryError.swift */; };
 		C34F5120252BE83D003C89A2 /* EntryListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34F511F252BE83D003C89A2 /* EntryListTableViewController.swift */; };
+		C3E615B4252BF01D005E9394 /* EntryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3E615B3252BF01D005E9394 /* EntryDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		C34F5119252BCEC4003C89A2 /* EntryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryController.swift; sourceTree = "<group>"; };
 		C34F511C252BD89E003C89A2 /* EntryError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryError.swift; sourceTree = "<group>"; };
 		C34F511F252BE83D003C89A2 /* EntryListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryListTableViewController.swift; sourceTree = "<group>"; };
+		C3E615B3252BF01D005E9394 /* EntryDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 			isa = PBXGroup;
 			children = (
 				C34F511F252BE83D003C89A2 /* EntryListTableViewController.swift */,
+				C3E615B3252BF01D005E9394 /* EntryDetailViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				C34F5120252BE83D003C89A2 /* EntryListTableViewController.swift in Sources */,
 				C34F511A252BCEC4003C89A2 /* EntryController.swift in Sources */,
 				C34F50F1252BBC1E003C89A2 /* AppDelegate.swift in Sources */,
+				C3E615B4252BF01D005E9394 /* EntryDetailViewController.swift in Sources */,
 				C34F50F3252BBC1E003C89A2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
